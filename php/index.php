@@ -1,5 +1,5 @@
 <?php 
-$servername = "db"; // Host de la BDD  
+$servername = "db"; // Host de la BDD  s
 $username = "usuario1"; // Nombre de usuario de MySQL 
 $password = "contrasenyaUsuario1"; // Contraseña de MySQL 
 $dbname = "cine"; // Nombre de la base de datos 
